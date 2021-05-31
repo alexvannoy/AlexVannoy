@@ -1,5 +1,5 @@
-# .idea/ directories
-./idea
+# .idea/ directory
+.idea/
 
 # Jekyll files
 _site
